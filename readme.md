@@ -1,4 +1,4 @@
-# Champagne Wordpress Theme
+## Champagne Wordpress Theme
 Contributors: David Wieczorek
 Requires at least: WordPress 4.1
 Tested up to: WordPress 4.3-trunk
