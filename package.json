@@ -1,0 +1,27 @@
+{
+  "name": "champagne",
+  "version": "1.0.0",
+  "description": "Wordpress Blackratio Portfolio theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackratio/Champagne.git"
+  },
+  "keywords": [
+    "champagne"
+  ],
+  "author": "David Wieczorek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackratio/Champagne/issues"
+  },
+  "homepage": "https://github.com/blackratio/Champagne#readme",
+  "devDependencies": {
+    "browser-sync": "^2.9.10",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  }
+}
